@@ -15,5 +15,6 @@ while row_index < array_of_arrays.count do
     element_index += 1
   end
   row_index += 1
+end
 find_even_values(array_of_arrays)
 end
